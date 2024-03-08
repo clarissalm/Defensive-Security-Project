@@ -1,0 +1,1 @@
+For this project we are given the role of a SOC analyst at VSI (Virtual Space Industries). The VSI company specializes in virtual reality programs and rumor is that Jobe Corp may launch a cyber attack to disrupt VSI’s business. Using Splunk we will monitor against potential attacks that might occur within our systems
